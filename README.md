@@ -24,3 +24,12 @@ Run these commands one at a time, follow the format presented in these queries
 * Twitter NPM Package - https://www.npmjs.com/package/twitter
 * Spotify NPM Package - https://www.npmjs.com/package/spotify
 * Request NPM Package - https://www.npmjs.com/package/request
+
+## Author
+
+**Reyna Perez**
+
+## Acknowledgments
+
+*UA Programing Bootcamp
+
